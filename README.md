@@ -5,7 +5,9 @@ A collection of custom scripts, tools, and utilities crafted during my hands-on 
 **Disclaimer:**
 > These tools are provided for **educational and authorized testing purposes only**. Never use them on any system without explicit, written permission. Unauthorized access to computer systems is illegal and unethical. The author is not responsible for any misuse or damage caused by this software.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/50146ee8-ede0-445a-af2f-7cf059724893" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/05ef522f-3e71-4475-9a8c-b9f7ac32f9fb" />
+</p>
 
 ---
 
