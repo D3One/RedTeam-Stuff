@@ -42,7 +42,7 @@ A Python wrapper script designed to automate the initial stages of a penetration
 ---
 
 <p align="center">
-  <img src="[https://github.com/user-attachments/assets/05ef522f-3e71-4475-9a8c-b9f7ac32f9fb](https://github.com/user-attachments/assets/9f93298e-0016-45e2-b241-8feabc60fec4)" />
+  <img src="https://github.com/user-attachments/assets/9f93298e-0016-45e2-b241-8feabc60fec4" />
 </p>
 
 ## Getting Started
